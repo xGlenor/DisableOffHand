@@ -6,4 +6,5 @@ Disable second hand use on your server
 | Command | Permission |
 | ------ | ------ |
 | /dohreload | disableoffhand.reload |
+
 In order for a player to use a second hand, you must give him permission: disableoffhand.bypass
