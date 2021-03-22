@@ -1,0 +1,9 @@
+name: DisableOffHand
+version: ${project.version}
+main: pl.gduraj.disableoffhand.DisableOffHand
+api-version: 1.16
+authors: [ gduraj ]
+commands:
+  dohreload:
+    description: Plugin reloaded
+    usage: "&cUse: /dohreload"

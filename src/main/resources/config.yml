@@ -1,0 +1,9 @@
+settings:
+  dropItem: true
+  sendMsg: true
+  slot: 40
+
+messages:
+  noPerm: "&cYou don't have permission."
+  reload: "&aPlugin reloaded!"
+  dropItem: "Item in hand drop"
